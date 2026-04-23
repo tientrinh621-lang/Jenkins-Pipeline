@@ -1,1 +1,1 @@
-I have made changes to the repo to make commits to Jenkins
+I have made changes to the GitHub to make commits to Jenkins
